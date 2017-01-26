@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         print("viewDidLoad")
         print("ViewDidLoadinAcoount")
         print("ViewDidLoadAgain")
+        print("ViewDidLoadAgain1")
     }
 
     override func didReceiveMemoryWarning() {
